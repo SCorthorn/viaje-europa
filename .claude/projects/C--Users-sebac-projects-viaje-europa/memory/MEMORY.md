@@ -1,0 +1,2 @@
+- [Viaje Europa 2026 — Estructura del proyecto](project_viaje_europa.md) — App HTML/CSS/JS estática para itinerario, 5 ciudades, 14 días, datos en data.js, admin con localStorage
+- [Viaje Europa — Dirección de diseño](project_design_direction.md) — "Carnet de Voyage": Playfair Display + Nunito, terracota #C4793A, bottom-sheet modal, nav por ciudad con scroll spy
